@@ -1,4 +1,5 @@
-baseurl: https://ricora.github.io/blog/
+baseurl: https://ricora.github.io/blog
+canonifyurls: true
 languageCode: ja
 theme: hugo-theme-stack
 paginate: 5
