@@ -11,7 +11,7 @@ slug: shinonome-first
 image: https://pbs.twimg.com/profile_banners/1488017914729230342/1643852657/1500x500
 ---
 
-# Shinonomeの記事
+## Shinonomeの記事
 
 とりあえず私も書いてみることにした
 
