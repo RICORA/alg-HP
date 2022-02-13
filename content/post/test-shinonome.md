@@ -22,7 +22,7 @@ image: https://pbs.twimg.com/profile_banners/1488017914729230342/1643852657/1500
 * サーモンランの続投
 * 今年の夏頃発売
 
-[出典](https://www.nintendo.co.jp/nintendo_direct/20220210/index.html)
+{{< linkcard url="https://www.nintendo.co.jp/nintendo_direct/20220210/index.html">}}
 
 夏休みがすでに楽しみです。
 
