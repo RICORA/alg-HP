@@ -26,6 +26,15 @@ Goはプログラミング言語の1つである。2009年、GoogleでRobert Gri
 >「そうなのか？お前が欲したのはそれなのか？とすれば、それこそまさしくお前がこれまで一度も経験しなかったことだ（思い出すがいい、お前は言葉で自分自身を騙してきた。お前が冒険と呼んだのは、旅で得た粗悪な模造品であり、街で拾った女たちとの情事であり、殴り合いであり、ガラス細工に過ぎなかった。）。以下略。」 _J.P.Sartre 「嘔吐」 鈴木道彦訳.　人文書院、2010_
 
 
+## リンクカード
+リンクカードの挿入は`{{</* linkcard url="https://example.com/" */>}}`で
+
+{{< linkcard url="https://github.com/microsoft/TypeScript">}}
+
+{{< linkcard url="https://zenn.dev/">}}
+
+{{< linkcard url="https://qiita.com/e869120/items/1b2a5f0f07fd927e44e9">}}
+
 ## 意味のないプログラム
 ```haskell
 data Iminai deriving (Show, Ord)
