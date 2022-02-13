@@ -7,6 +7,17 @@
 &lt;blockquote>
 &lt;p>「そうなのか？お前が欲したのはそれなのか？とすれば、それこそまさしくお前がこれまで一度も経験しなかったことだ（思い出すがいい、お前は言葉で自分自身を騙してきた。お前が冒険と呼んだのは、旅で得た粗悪な模造品であり、街で拾った女たちとの情事であり、殴り合いであり、ガラス細工に過ぎなかった。）。以下略。」 &lt;em>J.P.Sartre 「嘔吐」 鈴木道彦訳.　人文書院、2010&lt;/em>&lt;/p>
 &lt;/blockquote>
+&lt;h2 id="リンクカード">リンクカード&lt;/h2>
+&lt;p>リンクカードの挿入は&lt;code>{{&amp;lt; linkcard url=&amp;quot;https://example.com/&amp;quot; &amp;gt;}}&lt;/code>で&lt;/p>
+&lt;iframe class="hatenablogcard" style="width:100%;height:155px;max-width:680px;"
+src="https://hatenablog-parts.com/embed?url=https%3a%2f%2fgithub.com%2fmicrosoft%2fTypeScript" width="300" height="150" frameborder="0" scrolling="no">
+&lt;/iframe>
+&lt;iframe class="hatenablogcard" style="width:100%;height:155px;max-width:680px;"
+src="https://hatenablog-parts.com/embed?url=https%3a%2f%2fzenn.dev%2f" width="300" height="150" frameborder="0" scrolling="no">
+&lt;/iframe>
+&lt;iframe class="hatenablogcard" style="width:100%;height:155px;max-width:680px;"
+src="https://hatenablog-parts.com/embed?url=https%3a%2f%2fqiita.com%2fe869120%2fitems%2f1b2a5f0f07fd927e44e9" width="300" height="150" frameborder="0" scrolling="no">
+&lt;/iframe>
 &lt;h2 id="意味のないプログラム">意味のないプログラム&lt;/h2>
 &lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-haskell" data-lang="haskell">&lt;span class="kr">data&lt;/span> &lt;span class="kt">Iminai&lt;/span> &lt;span class="kr">deriving&lt;/span> &lt;span class="p">(&lt;/span>&lt;span class="kt">Show&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="kt">Ord&lt;/span>&lt;span class="p">)&lt;/span>
 &lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-go" data-lang="go">&lt;span class="kn">package&lt;/span> &lt;span class="nx">main&lt;/span>
