@@ -1,4 +1,4 @@
-baseurl: https://alg.tus-ricora.com/blog
+baseurl: https://alg.tus-ricora.com
 canonifyurls: true
 languageCode: ja
 theme: hugo-theme-stack
