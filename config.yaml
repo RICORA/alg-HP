@@ -176,7 +176,7 @@ params:
 menu:
     main:
         - identifier: home
-          name: Home
+          name: ホーム
           url: /
           weight: -100
           params:
