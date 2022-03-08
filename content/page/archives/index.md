@@ -1,5 +1,5 @@
 ---
-title: "Archives"
+title: アーカイブ
 layout: "archives"
 slug: "archives"
 menu:
