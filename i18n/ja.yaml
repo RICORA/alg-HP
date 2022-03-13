@@ -34,6 +34,10 @@ widget:
         more:
             other: さらに見る
 
+    categories:
+        title:
+            other: カテゴリー
+
     tagCloud:
         title:
             other: タグ
