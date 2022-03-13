@@ -89,3 +89,11 @@
         }
     }
 }
+
+/* Twitter widget */
+.twitter {
+    .twitter-timeline {
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
