@@ -148,16 +148,16 @@ params:
     opengraph:
         twitter:
             # Your Twitter username
-            site:
+            site: ricora_alg
 
             # Available values: summary, summary_large_image
             card: summary_large_image
 
     defaultImage:
         opengraph:
-            enabled: false
+            enabled: true
             local: false
-            src:
+            src: https://user-images.githubusercontent.com/56070040/158264972-923a264a-7973-4f08-b8cf-25d5bf9b7ace.png
 
     colorScheme:
         # Display toggle
