@@ -7,7 +7,7 @@ menu:
     main:
         weight: -90
         params:
-            icon: users
+            icon: pc
 slug: about-us
 ---
 
