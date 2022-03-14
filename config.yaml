@@ -135,7 +135,9 @@ params:
         enabled:
             - search
             - archives
+            - categories
             - tag-cloud
+            - twitter
 
         archives:
             limit: 10
