@@ -185,6 +185,27 @@ menu:
               ### For demonstration purpose, the home link will be open in a new tab
               newTab: false
               icon: home
+        - identifier: news
+          name: お知らせ
+          url: ./categories/news
+          weight: -89
+          params:
+              newTab: false
+              icon: news
+        - identifier: activities
+          name: 活動記録
+          url: ./categories/activities
+          weight: -88
+          params:
+              newTab: false
+              icon: activity
+        - identifier: works
+          name: 作品紹介
+          url: ./categories/works
+          weight: -87
+          params:
+              newTab: false
+              icon: star
 
     social:
         - identifier: github
