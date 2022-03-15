@@ -179,7 +179,6 @@ menu:
     main:
         - identifier: home
           name: ホーム
-          url: /
           weight: -100
           params:
               ### For demonstration purpose, the home link will be open in a new tab
