@@ -3,15 +3,14 @@
         {{ partial "helper/icon" "brand-twitter" }}
     </div>
     <h2 class="widget-title section-title">{{ T "widget.twitter.title" }}</h2>
-    <div id="twitter-tl">
-        <div class="twitter-tl-dark">
-          <a class="twitter-timeline" data-height="500" data-theme="dark" href="https://twitter.com/ricora_alg">Tweets by ricora_alg</a>
-        </div>
-        <div class="twitter-tl-light">
-          <a class="twitter-timeline" data-height="500" data-theme="light" href="https://twitter.com/ricora_alg">Tweets by ricora_alg</a>
-        </div>
-    </div>
-
+    <a id="twitter-timeline" class="twitter-timeline" data-height="500" data-theme="light" href="https://twitter.com/ricora_alg">Tweets by ricora_alg</a>
     <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+    <script>
+      // dark
+      if (document.documentElement.dataset.scheme == "dark"){
+        document.getElementById("twitter-timeline").setAttribute("data-theme", "dark")
+      }
+    </script>
 
 </section>
