@@ -1,5 +1,5 @@
 ---
-title: アーカイブ
+title: ブログ
 layout: "archives"
 slug: "archives"
 menu:
