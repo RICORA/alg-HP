@@ -205,6 +205,13 @@ menu:
           params:
               newTab: false
               icon: star
+        - identifier: tags
+          name: タグ
+          url: ./tags
+          weight: -65
+          params:
+              newTab: false
+              icon: tag
 
     social:
         - identifier: github
