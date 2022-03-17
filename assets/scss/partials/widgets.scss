@@ -91,23 +91,10 @@
 }
 
 /* Twitter widget */
-[data-scheme="dark"] {
-    #twitter-tl {
-        .twitter-tl-dark {
-            display: flex;
-            flex-wrap: wrap;
-        }
-        .twitter-tl-light {
-            display: none;
-        }
-    }
-}
-#twitter-tl {
-    .twitter-tl-dark {
-        display: none;
-    }
-    .twitter-tl-light {
+.twitter {
+    .twitter-timeline {
         display: flex;
         flex-wrap: wrap;
     }
 }
+
