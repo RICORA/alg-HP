@@ -1,0 +1,9 @@
+<header class="article-header">
+    {{ if .Params.emoji }}
+        <div class="article-emoji">
+            <img src="https://twemoji.maxcdn.com/v/latest/svg/{{ lower $.Params.emoji }}.svg" width="64" height="64" loading="lazy" alt="Featured emoji of post {{ .Title }}" />
+        </div>
+    {{ end }}
+
+    {{ partialCached "article/components/details" . .RelPermalink }}
+</header>
