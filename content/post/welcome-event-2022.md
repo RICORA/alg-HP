@@ -7,6 +7,7 @@ tags:
     - 新歓
 description: 新歓イベントの日程を掲示します
 slug: welcome-event-2022
+emoji: 1f338
 ---
 
 ## はじめに
