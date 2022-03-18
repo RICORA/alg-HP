@@ -7,7 +7,6 @@ tags:
     - 新歓
 description: 新歓にかかわるイベントの日程を掲示します
 slug: welcome-event-2022
-image: https://pbs.twimg.com/profile_images/1492435478427365378/kD0TjMia_400x400.jpg
 ---
 
 ## 春の新歓 日程
