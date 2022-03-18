@@ -9,5 +9,6 @@ tags:
     -
 description:
 slug:
+emoji: 270F
 ---
 
