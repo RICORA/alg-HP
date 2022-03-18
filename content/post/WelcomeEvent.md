@@ -10,7 +10,7 @@ slug: welcome-event2022
 image: https://pbs.twimg.com/profile_images/1492435478427365378/kD0TjMia_400x400.jpg
 ---
 
-# 春の新歓 日程
+## 春の新歓 日程
 
 | 日程 | イベント内容 | 概要 |
 | :--: | :--: | :--: |
