@@ -1,0 +1,36 @@
+template: tcardgen/template.png
+title:
+  start:
+    px: 95
+    py: 160
+  fgHexColor: "#222222"
+  fontSize: 75
+  fontStyle: Bold
+  maxWidth: 1010
+  lineSpacing: 10
+category:
+  start:
+    px: 95
+    py: 485
+  fgHexColor: "#2C3E50"
+  fontSize: 50
+  fontStyle: Regular
+info:
+  start:
+    px: 0
+    py: 630
+tags:
+  start:
+    px: 95
+    py: 80
+  fgHexColor: "#FFFFFF"
+  bgHexColor: "#2C3E50"
+  fontSize: 35
+  fontStyle: Medium
+  boxAlign: Left
+  boxSpacing: 20
+  boxPadding:
+    top: 6
+    right: 10
+    bottom: 6
+    left: 8

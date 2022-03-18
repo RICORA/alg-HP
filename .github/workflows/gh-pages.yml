@@ -17,6 +17,17 @@ jobs:
           submodules: true  # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
+      - name: Setup Go
+        uses: actions/setup-go@v2.2.0
+        with:
+            go-version: ^1.17.0
+
+      - name: Install tcardgen
+        run: go install github.com/qawatake/tcardgen@latest
+
+      - name: Generate OGP
+        run: tcardgen -f tcardgen/font/ -o static/opengraph -c tcardgen/config.yml content/post/*.md
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
