@@ -1,11 +1,11 @@
 ---
-title: 新歓の日程
+title: 2022年度春の新歓イベントのお知らせ
 date: 2022-03-18T18:57:50+09:00
 categories:
-    - お知らせ
+    - news
 tags:
     - 新歓
-description: 新歓にかかわるイベントの日程を掲示します
+description: 新歓イベントの日程を掲示します
 slug: welcome-event-2022
 ---
 
