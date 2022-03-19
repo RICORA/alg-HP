@@ -22,9 +22,14 @@ slug: contact
 -->
 
 <!--新歓の時期以外はコメントアウト-->
-<!--
-ここにQRコード
--->
+
+<div style="text-align: center;">
+  <img src="https://user-images.githubusercontent.com/31199032/159123432-d977552a-802d-4a66-9191-55d201ac8868.jpg" width="200" height="200" alt="LINE オープンチャット" class="shinkan-openchat-image">
+</div>
+
+{{< linkcard url=https://line.me/ti/g2/WIw4QFDRTotTV79K-Im_uKCrAIUwbU02JoFPTA >}}
 
 ## Google Forms
 新歓の時期以外での入部希望者や提携のご相談など、個別に返信が欲しい場合はこちらからお願いします。
+
+{{< linkcard url=https://forms.gle/PmimftqCFvezi3Cs6 >}}
