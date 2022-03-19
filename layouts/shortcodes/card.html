@@ -1,0 +1,28 @@
+{{ $cards := $.Page.Params.cards }}
+<table id="card-table">
+{{ range $card := $cards }}
+<tr>  
+  <td>
+   <section class="card">
+     <div class="card-title">
+       <p> {{ $card.title }} </p>
+     </div>
+     <div class="card-body">
+       {{ with $card.date }}
+       <div class="card-date">
+         <p>
+           {{ $card.date }}
+         </p>
+       </div>
+       {{ end }}
+       <div class="card-details">
+         <p>
+         {{ $card.details }}
+         </p>
+       </div>
+     </div>
+   </section>
+  </td>
+</tr>
+{{ end }}
+</table>
