@@ -457,7 +457,7 @@
         margin: auto;
         width: 85%;
 
-        @include respond(md) {
+        @include respond(sm) {
             width: 50%;
         }
 
