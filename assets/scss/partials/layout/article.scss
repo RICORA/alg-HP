@@ -449,3 +449,24 @@
     border-radius: var(--card-border-radius);
     margin: 0.3em;
 }
+
+.shinkan-openchat {
+    align: center;
+    text-align: center;
+    .shinkan-openchat-image {
+        margin: auto;
+        width: 85%;
+
+        @include respond(md) {
+            width: 50%;
+        }
+
+        @include respond(xl) {
+            width: 40%;
+        }
+
+        @include respond(2xl) {
+            width: 30%;
+        }
+    }
+}
