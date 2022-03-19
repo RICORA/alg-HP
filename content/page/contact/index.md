@@ -26,9 +26,10 @@ slug: contact
 ここにQRコード
 -->
 
-<div class="shinkan-openchat">
-  <img src="https://user-images.githubusercontent.com/31199032/159123432-d977552a-802d-4a66-9191-55d201ac8868.jpg" alt="LINE オープンチャット" class="shinkan-openchat-image">
+<div style="text-align: center;">
+  <img src="https://user-images.githubusercontent.com/31199032/159123432-d977552a-802d-4a66-9191-55d201ac8868.jpg" width="200" height="200" alt="LINE オープンチャット" class="shinkan-openchat-image">
 </div>
+
 
 ## Google Forms
 新歓の時期以外での入部希望者や提携のご相談など、個別に返信が欲しい場合はこちらからお願いします。
