@@ -3,46 +3,134 @@
 &lt;p>RICORAプログラミング班についての詳しい説明は&lt;a class="link" href="https://alg.tus-ricora.com/about-us/" >RICORAについて&lt;/a>をご覧ください。&lt;/p>
 &lt;h2 id="春の新歓の日程">春の新歓の日程&lt;/h2>
 &lt;p>&lt;strong>日程は、運営上の都合により突然変更されることがあります。可能な限り最新の情報を掲載するようにしますので、都度確認をよろしくお願いします。&lt;/strong>&lt;/p>
-&lt;table>
-&lt;thead>
+&lt;h3 id="イベント一覧">イベント一覧&lt;/h3>
+&lt;table id="card-table">
 &lt;tr>
-&lt;th style="text-align:center">日程&lt;/th>
-&lt;th style="text-align:center">イベント名&lt;/th>
-&lt;th style="text-align:center">概要&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td style="text-align:center">4/10 (Sun) 13:00~14:00&lt;/td>
-&lt;td style="text-align:center">オンライン合同説明会&lt;/td>
-&lt;td style="text-align:center">&lt;strong>理科大春の新歓公式ZOOM&lt;/strong>にてRICORAプログラミング班を紹介します。&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align:center">4/13 (Wed) 20:00~21:30&lt;/td>
-&lt;td style="text-align:center">新入部員向け説明会&lt;/td>
-&lt;td style="text-align:center">Discordにてプログラミング入門講座を開催したのち、アルゴ式でプログラムを実際に書く機会をご提供します。&lt;br> 経験者の方は、RICORAプログラミング班でやりたいことを部員と語り合いましょう！&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align:center">4/17 (Sun) 10:00~16:00&lt;/td>
-&lt;td style="text-align:center">対面ブース&lt;/td>
-&lt;td style="text-align:center">&lt;strong>講義棟K304教室&lt;/strong>にて、私たちの活動を紹介します。履修相談も大歓迎！お会いできることを楽しみにしています。&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align:center">4/20 (Wed) 20:00~21:30&lt;/td>
-&lt;td style="text-align:center">新入部員向け説明会&lt;/td>
-&lt;td style="text-align:center">4/13のものと同様の説明会を開催します。&lt;/td>
+&lt;td>
+&lt;section class="card">
+&lt;div class="card-title">
+&lt;p> 春の新歓 オンライン合同説明会 &lt;/p>
+&lt;/div>
+&lt;div class="card-body">
+&lt;div class="card-date">
+&lt;p>
+4/10 (Sun) 13:00~14:00
+&lt;/p>
+&lt;/div>
+&lt;div class="card-details">
+&lt;p>
+理科大春の新歓公式ZOOMにてRICORAプログラミング班を紹介します。
+&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/section>
+&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">4/23 (Sat) 時間未定&lt;/td>
-&lt;td style="text-align:center">コマンドライン入門講座&lt;/td>
-&lt;td style="text-align:center">シェルでの基本的なコマンドライン操作についての講座を開講します。奮ってご参加ください。&lt;/td>
+&lt;td>
+&lt;section class="card">
+&lt;div class="card-title">
+&lt;p> 新入部員向け説明会 &lt;/p>
+&lt;/div>
+&lt;div class="card-body">
+&lt;div class="card-date">
+&lt;p>
+4/13 (Wed) 20:00~21:30
+&lt;/p>
+&lt;/div>
+&lt;div class="card-details">
+&lt;p>
+Discordにてプログラミング入門講座を開催したのち、アルゴ式でプログラムを実際に書く機会をご提供します。 経験者の方は、RICORAプログラミング班でやりたいことを部員と語り合いましょう！
+&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/section>
+&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">4/27 (Wed) 20:00~21:30&lt;/td>
-&lt;td style="text-align:center">Git/GitHub入門講座&lt;/td>
-&lt;td style="text-align:center">Git/GitHubの基本的な使い方とソフトウェア開発の流れをご説明します。こちらにもぜひご参加ください。&lt;/td>
+&lt;td>
+&lt;section class="card">
+&lt;div class="card-title">
+&lt;p> 春の新歓 対面ブース &lt;/p>
+&lt;/div>
+&lt;div class="card-body">
+&lt;div class="card-date">
+&lt;p>
+4/17 (Sun) 10:00~16:00
+&lt;/p>
+&lt;/div>
+&lt;div class="card-details">
+&lt;p>
+講義棟K304教室にて、私たちの活動を紹介します。履修相談も大歓迎！お会いできることを楽しみにしています。
+&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/section>
+&lt;/td>
 &lt;/tr>
-&lt;/tbody>
+&lt;tr>
+&lt;td>
+&lt;section class="card">
+&lt;div class="card-title">
+&lt;p> 新入部員向け説明会 &lt;/p>
+&lt;/div>
+&lt;div class="card-body">
+&lt;div class="card-date">
+&lt;p>
+4/20 (Wed) 20:00~21:30
+&lt;/p>
+&lt;/div>
+&lt;div class="card-details">
+&lt;p>
+4/13のものと同様の説明会を開催します。
+&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/section>
+&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>
+&lt;section class="card">
+&lt;div class="card-title">
+&lt;p> コマンドライン入門講座 &lt;/p>
+&lt;/div>
+&lt;div class="card-body">
+&lt;div class="card-date">
+&lt;p>
+4/23 (Sat) 時間未定
+&lt;/p>
+&lt;/div>
+&lt;div class="card-details">
+&lt;p>
+シェルでの基本的なコマンドライン操作についての講座を開講します。奮ってご参加ください。
+&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/section>
+&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>
+&lt;section class="card">
+&lt;div class="card-title">
+&lt;p> Git/GitHub入門講座 &lt;/p>
+&lt;/div>
+&lt;div class="card-body">
+&lt;div class="card-date">
+&lt;p>
+4/27 (Wed) 20:00~21:30
+&lt;/p>
+&lt;/div>
+&lt;div class="card-details">
+&lt;p>
+Git/GitHubの基本的な使い方とソフトウェア開発の流れをご説明します。こちらにもぜひご参加ください。
+&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/section>
+&lt;/td>
+&lt;/tr>
 &lt;/table>
 &lt;p>以降、前期にはLT会、Web開発や競技プログラミング・CTFの入門講座、夏休みには制作物発表会など様々な活動を行う予定です。&lt;/p>
-&lt;p>ご質問や不明点などがありましたら、&lt;a class="link" href="https://alg.tus-ricora.com/contact/" >こちらのリンク&lt;/a>のGoogle Formからご一報ください。&lt;/p></description></item></channel></rss>
+&lt;p>ご質問や不明点などがありましたら、&lt;a class="link" href="https://alg.tus-ricora.com/contact/" >お問い合わせ&lt;/a>のGoogle Formsからご一報ください。&lt;/p></description></item></channel></rss>
