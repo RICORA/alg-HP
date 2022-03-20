@@ -7,7 +7,7 @@ tags:
     - 新歓
 cards:
   - title: 春の新歓 オンライン合同説明会
-    date: "4/10 (Sun) 13:00~14:00"
+    date: "4/10 (Sun) 13:00~13:10"
     details: 理科大春の新歓公式ZOOMにてRICORAプログラミング班を紹介します。
 
   - title: 新入部員向け説明会
@@ -47,6 +47,8 @@ RICORAプログラミング班についての詳しい説明は[RICORAについ�
 ### イベント一覧
 
 {{< card >}}
+
+<iframe src="https://calendar.google.com/calendar/embed?src=fks05sah0kcvk7g83upparb108%40group.calendar.google.com&ctz=Asia%2FTokyo" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 以降、前期にはLT会、Web開発や競技プログラミング・CTFの入門講座、夏休みには制作物発表会など様々な活動を行う予定です。
 
