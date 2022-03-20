@@ -7,7 +7,7 @@ tags:
     - 新歓
 cards:
   - title: 春の新歓 オンライン合同説明会
-    date: "4/10 (Sun) 13:00~14:00"
+    date: "4/10 (Sun) 13:00~13:10"
     details: 理科大春の新歓公式ZOOMにてRICORAプログラミング班を紹介します。
 
   - title: 新入部員向け説明会
