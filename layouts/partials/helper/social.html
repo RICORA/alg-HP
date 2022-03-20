@@ -1,0 +1,7 @@
+{{- $iconFile := resources.GetMatch (printf "icons/%s.png" .) -}}
+
+{{- if $iconFile -}}
+    <img src="{{ printf $iconFile.RelPermalink | absURL }}"></img>
+{{- else -}}
+    {{- errorf "Error: icon '%s.png' is not found under 'assets/icons' folder" . -}}
+{{- end -}}

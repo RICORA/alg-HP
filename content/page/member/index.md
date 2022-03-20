@@ -9,35 +9,56 @@ links:
         link: https://github.com/ricora
       - icon: brand-twitter
         link: https://twitter.com/ricora_alg
-      - icon: link
-        link: https://www.google.com/
-      - icon: pencil
+      - icon: brand-note
+        link: https://note.com/
+      - icon: brand-hatenablog
         link: https://hatenablog.com/
-      - icon: letter-a
+      - icon: brand-atcoder
         link: https://atcoder.jp/
-      - icon: letter-q
+      - icon: brand-qiita
         link: https://qiita.com/
-      - icon: letter-z
+      - icon: brand-zenn
         link: https://zenn.dev/
   - title: 理大 花子
     description: こんばんは
     image: https://www.tus.ac.jp/about/university/symbol/img/chara02.jpg
     social:
-      - icon: brand-github
-        link: https://github.com/ricora
       - icon: brand-twitter
         link: https://twitter.com/ricora_alg
-      - icon: brand-youtube
-        link: https://www.youtube.com/
-      - icon: pencil
-        link: https://hatenablog.com/
-      - icon: link
-        link: https://www.google.com/
-      - icon: link
-        link: https://www.yahoo.co.jp/
-      - icon: link
-        link: https://www.yahoo.co.jp/
-
+      - icon: brand-twitter
+        link: https://twitter.com/ricora_alg
+      - icon: brand-twitter
+        link: https://twitter.com/ricora_alg
+      - icon: brand-twitter
+        link: https://twitter.com/ricora_alg
+      - icon: brand-twitter
+        link: https://twitter.com/ricora_alg
+      - icon: brand-twitter
+        link: https://twitter.com/ricora_alg
+      - icon: brand-twitter
+        link: https://twitter.com/ricora_alg
+      - icon: brand-twitter
+        link: https://twitter.com/ricora_alg
+      - icon: brand-twitter
+        link: https://twitter.com/ricora_alg
+      - icon: brand-twitter
+        link: https://twitter.com/ricora_alg
+      - icon: brand-twitter
+        link: https://twitter.com/ricora_alg
+      - icon: brand-twitter
+        link: https://twitter.com/ricora_alg
+      - icon: brand-twitter
+        link: https://twitter.com/ricora_alg
+      - icon: brand-twitter
+        link: https://twitter.com/ricora_alg
+      - icon: brand-twitter
+        link: https://twitter.com/ricora_alg
+      - icon: brand-twitter
+        link: https://twitter.com/ricora_alg
+      - icon: brand-twitter
+        link: https://twitter.com/ricora_alg
+      - icon: brand-twitter
+        link: https://twitter.com/ricora_alg
 menu:
     main:
         weight: -60
