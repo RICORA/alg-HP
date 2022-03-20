@@ -1,14 +1,21 @@
 ---
 title: リンク
 links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: TypeScript
-    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-    website: https://www.typescriptlang.org
-    image: https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg
+  - title: 東京理科大学理工学部
+    description: 私たちが所属している東京理科大学理工学部のホームページです。
+    website: https://www.tus.ac.jp/academics/faculty/sciencetechnology/ 
+    image: https://www.tus.ac.jp/about/university/symbol/img/symbole03.jpg
+
+  - title: tus-ricora.com
+    description: RICORA全体のホームページです。
+    website: https://tus-ricora.com
+    image: https://github.com/ricora.png
+  
+  - title: AtCoder
+    description: 競技プログラミングのコンテストが開かれるサイトです。
+    website: https://atcoder.jp
+    image: https://img.atcoder.jp/assets/icon/avatar.png
+
 menu:
     main:
         weight: -40
