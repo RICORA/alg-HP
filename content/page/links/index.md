@@ -3,7 +3,7 @@ title: リンク
 links:
   - title: 東京理科大学理工学部
     description: 私たちが所属している東京理科大学理工学部のホームページです。
-    website: https://www.tus.ac.jp/academics/faculty/sciencetechnology/ 
+    website: https://www.tus.ac.jp/academics/faculty/sciencetechnology/
     image: https://www.tus.ac.jp/about/university/symbol/img/symbole03.jpg
 
   - title: tus-ricora.com
@@ -17,10 +17,10 @@ links:
     image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
 
   - title: Twitter
-    description: RIOCRA Programming Team の公式Twitterです。
+    description: RICORA Programming Team の公式Twitterです。
     website: https://twitter.com/ricora_alg
-    image: https://cdn.cms-twdigitalassets.com/content/dam/about-twitter/en/brand-toolkit/brand-download-img-1.jpg.twimg.2560.jpg
-  
+    image: https://abs.twimg.com/responsive-web/client-web-legacy/icon-ios.b1fc7275.png
+
   - title: AtCoder
     description: 競技プログラミングのコンテストが開かれるサイトです。
     website: https://atcoder.jp
