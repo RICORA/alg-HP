@@ -48,8 +48,6 @@ RICORAプログラミング班についての詳しい説明は[RICORAについ�
 
 {{< card >}}
 
-<iframe src="https://calendar.google.com/calendar/embed?src=fks05sah0kcvk7g83upparb108%40group.calendar.google.com&ctz=Asia%2FTokyo" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
 以降、前期にはLT会、Web開発や競技プログラミング・CTFの入門講座、夏休みには制作物発表会など様々な活動を行う予定です。
 
 ご質問や不明点などがありましたら、[お問い合わせ](/contact/)のGoogle Formsからご一報ください。
