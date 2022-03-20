@@ -14,7 +14,7 @@ links:
   - title: AtCoder
     description: 競技プログラミングのコンテストが開かれるサイトです。
     website: https://atcoder.jp
-    image: https://img.atcoder.jp/assets/icon/avatar.png
+    image: https://img.atcoder.jp/assets/atcoder.png
 
 menu:
     main:
