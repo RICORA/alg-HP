@@ -1,42 +1,15 @@
 ---
 title: メンバー
 links:
-  - title: 理大 太郎
-    description: こんにちは
-    image: https://www.tus.ac.jp/about/university/symbol/img/chara01.jpg
-    social:
+  - title: unagi_dog
+    description: 物理学科３年。寝るのが好き。swayとかi3とかのカスタマイズが好きです。vim小学校2020年入学。
+    social: 
       - icon: brand-github
-        link: https://github.com/ricora
+        link: https://github.com/phnyo
       - icon: brand-twitter
-        link: https://twitter.com/ricora_alg
+        link: https://twitter.com/NAUS3E
       - icon: link
-        link: https://www.google.com/
-      - icon: pencil
-        link: https://hatenablog.com/
-      - icon: letter-a
-        link: https://atcoder.jp/
-      - icon: letter-q
-        link: https://qiita.com/
-      - icon: letter-z
-        link: https://zenn.dev/
-  - title: 理大 花子
-    description: こんばんは
-    image: https://www.tus.ac.jp/about/university/symbol/img/chara02.jpg
-    social:
-      - icon: brand-github
-        link: https://github.com/ricora
-      - icon: brand-twitter
-        link: https://twitter.com/ricora_alg
-      - icon: brand-youtube
-        link: https://www.youtube.com/
-      - icon: pencil
-        link: https://hatenablog.com/
-      - icon: link
-        link: https://www.google.com/
-      - icon: link
-        link: https://www.yahoo.co.jp/
-      - icon: link
-        link: https://www.yahoo.co.jp/
+        link: https://無職.dev/
 
 menu:
     main:
