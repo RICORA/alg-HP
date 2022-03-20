@@ -38,6 +38,6 @@ slug: contact
 
 {{< linkcard url=https://forms.gle/1nBcSnRsyMB5WzQr9 >}}
 
-TwitterのDMも開放しております。
+またTwitterのDMも開放しております。
 
 {{< linkcard url=https://twitter.com/ricora_alg >}}
