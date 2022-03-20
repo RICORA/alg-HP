@@ -10,6 +10,16 @@ links:
     description: RICORA全体のホームページです。
     website: https://tus-ricora.com
     image: https://github.com/ricora.png
+
+  - title: GitHub
+    description: RICORAのGitHubリポジトリです。
+    website: https://github.com/RICORA
+    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+
+  - title: Twitter
+    description: RIOCRA Programming Team の公式Twitterです。
+    website: https://twitter.com/ricora_alg
+    image: https://cdn.cms-twdigitalassets.com/content/dam/about-twitter/en/brand-toolkit/brand-download-img-1.jpg.twimg.2560.jpg
   
   - title: AtCoder
     description: 競技プログラミングのコンテストが開かれるサイトです。
