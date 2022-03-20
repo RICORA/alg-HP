@@ -49,6 +49,7 @@ links:
         link: https://twitter.com/ricora_alg
       - icon: brand-twitter
         link: https://twitter.com/ricora_alg
+      - link: https://5ch.net/
       - icon: brand-twitter
         link: https://twitter.com/ricora_alg
       - icon: brand-twitter
