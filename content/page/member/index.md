@@ -25,6 +25,14 @@ links:
         link: https://twitter.com/NAUS3E
       - link: https://xn--2sx204a.dev/
 
+  - title: 天狗
+    description: 情報科学科。プログラミング言語自体に興味がある者。普段はC++とかRustでWin32API(特にDirectX)を叩く。
+    image: https://avatars.githubusercontent.com/u/65766435
+    social:
+      - icon: brand-github
+        link: https://github.com/Tengu712
+      - icon: brand-twitter
+        link: https://twitter.com/Tengu_s_Note
 
 menu:
     main:
