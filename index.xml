@@ -1,4 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>RICORA Programming Team</title><link>https://alg.tus-ricora.com/</link><description>Recent content on RICORA Programming Team</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Fri, 18 Mar 2022 18:57:50 +0900</lastBuildDate><atom:link href="https://alg.tus-ricora.com/index.xml" rel="self" type="application/rss+xml"/><item><title>2022年度春の新歓のお知らせ</title><link>https://alg.tus-ricora.com/p/welcome-event-2022/</link><pubDate>Fri, 18 Mar 2022 18:57:50 +0900</pubDate><guid>https://alg.tus-ricora.com/p/welcome-event-2022/</guid><description>&lt;h2 id="はじめに">はじめに&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>RICORA Programming Team</title><link>https://alg.tus-ricora.com/</link><description>Recent content on RICORA Programming Team</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sun, 03 Apr 2022 16:09:52 +0900</lastBuildDate><atom:link href="https://alg.tus-ricora.com/index.xml" rel="self" type="application/rss+xml"/><item><title>2022年3月のLTを開催</title><link>https://alg.tus-ricora.com/p/lt-20220329/</link><pubDate>Sun, 03 Apr 2022 16:09:52 +0900</pubDate><guid>https://alg.tus-ricora.com/p/lt-20220329/</guid><description>&lt;h2 id="はじめに">はじめに&lt;/h2>
+&lt;p>春休みも終わりに近づいた3月29日(火)に、部員個人が休暇中に自主学習をしたトピックについて交流を行いました。&lt;/p>
+&lt;p>春休みのまとめという位置づけでもあったためか、多くの部員が発表し盛り上がったLTでした。&lt;/p>
+&lt;h2 id="発表内容一覧">発表内容一覧&lt;/h2>
+&lt;h3 id="gasでgmail通知botを作ってみたshinonome">GASでGmail通知Botを作ってみた(Shinonome)&lt;/h3>
+&lt;p>特定のメールが届いたときに通知を出してくれるDiscordのBotを作成しました。&lt;/p>
+&lt;h3 id="角の三等分問題についてsaizu">角の三等分問題について(Saizu)&lt;/h3>
+&lt;p>角の三等分線が作図不可能であることの証明をしました。&lt;/p>
+&lt;h3 id="無限にねこの写真が見たい">無限にねこの写真が見たい&lt;/h3>
+&lt;p>とあるSNSのAPIを叩いてねこの写真を眺めるプログラムを作りました。&lt;/p>
+&lt;h3 id="rustを使った所感fp">Rustを使った所感(FP)&lt;/h3>
+&lt;p>春休みに行った開発を紹介し、併せてRustの言語仕様について語りました。&lt;/p>
+&lt;h3 id="svelteの話をする">Svelteの話をする&lt;/h3>
+&lt;p>比較的簡単にWebアプリを作ることのできる、JavaScriptフレームワークSvelteの布教をしました。&lt;/p>
+&lt;h3 id="python-mediapipeunity-カメラから手を3dcg空間に転送してみたshun74">Python Mediapipe+Unity カメラから手を3DCG空間に転送してみた(shun74)&lt;/h3>
+&lt;p>Pythonモジュールを用いてUnityにデータ転送をする方法について話をしました。&lt;/p>
+&lt;h3 id="機械学習で画像ファイルを推しキャラだけにするたそたく">機械学習で画像ファイルを推しキャラだけにする(たそたく)&lt;/h3>
+&lt;p>深層学習を含む様々な機械学習アルゴリズムを駆使して推しの画像データを分類しました。&lt;/p></description></item><item><title>2022年度春の新歓のお知らせ</title><link>https://alg.tus-ricora.com/p/welcome-event-2022/</link><pubDate>Fri, 18 Mar 2022 18:57:50 +0900</pubDate><guid>https://alg.tus-ricora.com/p/welcome-event-2022/</guid><description>&lt;h2 id="はじめに">はじめに&lt;/h2>
 &lt;p>RICORAプログラミング班に興味を持って頂きありがとうございます！この記事では2022年度春の新歓の日程をご紹介します。たくさんのイベントをご用意しましたので、ぜひお越しください！&lt;/p>
 &lt;p>RICORAプログラミング班についての詳しい説明は&lt;a class="link" href="https://alg.tus-ricora.com/about-us/" >RICORAについて&lt;/a>をご覧ください。&lt;/p>
 &lt;h2 id="春の新歓の日程">春の新歓の日程&lt;/h2>
