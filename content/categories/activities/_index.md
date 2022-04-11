@@ -4,4 +4,5 @@ description: "活動記録"
 slug: "activities"
 style:
     background: "#F9B148"
+    color: "#FFFFFF"
 ---
