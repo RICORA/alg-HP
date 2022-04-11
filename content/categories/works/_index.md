@@ -4,4 +4,5 @@ description: "作品紹介"
 slug: "works"
 style:
     background: "#82BFFC"
+    color: "#FFFFFF"
 ---
