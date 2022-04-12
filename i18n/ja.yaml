@@ -13,9 +13,12 @@ article:
 
     relatedContents:
         other: 関連するコンテンツ
+   
+    postedOn:
+        other: "投稿日: "
 
     lastUpdatedOn:
-        other: 最終更新
+      other: "最終更新: " 
 
     readingTime:
         other: "読了時間: {{ .Count }}分"
