@@ -22,13 +22,21 @@
     </div>
     {{ end }}
 
-    {{ if or (not .Date.IsZero) (.Site.Params.article.readingTime) }}
+    {{ if or (not .Params.LastMode.IsZero) (.Site.Params.article.readingTime) }}
     <footer class="article-time">
         {{ if not .Date.IsZero }}
             <div>
                 {{ partial "helper/icon" "date" }}
                 <time class="article-time--published">
-                    {{- .Date.Format (or .Site.Params.dateFormat.published "Jan 02, 2006") -}}
+                  {{- T "article.postedOn" -}} {{- .Date.Format (or .Site.Params.dateFormat.Date "2006年01月02日") -}}
+                </time>
+            </div>
+        {{ end }}
+
+        {{ if not .Lastmod.IsZero }}
+            <div>
+                <time class="article-time--published">
+                  {{ T "article.lastUpdatedOn" }} {{- .Lastmod.Format (or .Site.Params.dateFormat.Date "2006年01月02日") }}
                 </time>
             </div>
         {{ end }}
