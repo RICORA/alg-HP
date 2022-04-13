@@ -5,4 +5,5 @@ slug: "activities"
 style:
     background: "#F9B148"
     color: "#FFFFFF"
+emoji: 1F4D8
 ---

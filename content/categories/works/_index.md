@@ -5,4 +5,5 @@ slug: "works"
 style:
     background: "#82BFFC"
     color: "#FFFFFF"
+emoji: 1F31F
 ---
