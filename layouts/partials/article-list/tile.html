@@ -1,0 +1,18 @@
+<article class="{{ if $.context.Params.emoji }}has-image{{ end }}">
+    <a href="{{ .context.RelPermalink }}">
+
+        {{ if $.context.Params.emoji }}
+            <div class="article-image">
+                <img src="https://twemoji.maxcdn.com/v/latest/svg/{{ lower $.context.Params.emoji }}.svg"
+                width="48" height="48" loading="lazy" alt="Featured emoji of post {{ .Title }}" />
+            </div>
+        {{ end }}
+
+        <div class="article-details">
+            <h2 class="article-title">
+                {{- .context.Title -}}
+            </h2>
+        </div>
+
+    </a>
+</article>
