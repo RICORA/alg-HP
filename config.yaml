@@ -226,6 +226,13 @@ menu:
           params:
             icon: brand-twitter
 
+        - identifier: youtube
+          name: YouTube
+          url: https://www.youtube.com/channel/UC4qBY_aaTvTkQ3E0PY89T2A
+          params:
+            icon: brand-youtube
+
+
 related:
     includeNewer: true
     threshold: 60

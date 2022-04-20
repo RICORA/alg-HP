@@ -17,9 +17,14 @@ links:
     image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
 
   - title: Twitter
-    description: RICORA Programming Team の公式Twitterです。
+    description: RICORA Programming Teamの公式Twitterです。
     website: https://twitter.com/ricora_alg
     image: https://abs.twimg.com/responsive-web/client-web-legacy/icon-ios.b1fc7275.png
+
+  - title: YouTube
+    description: RICORA Programming TeamのYouTubeチャンネルです。
+    website: https://www.youtube.com/channel/UC4qBY_aaTvTkQ3E0PY89T2A
+    image: https://lh3.googleusercontent.com/KhY28aTw30hEJXooMF-_rQqwMIIqofFvasbZJtEpvlgHQwLXKP3KW0OoCTtoYpDNn_U=w128
 
   - title: AtCoder
     description: 競技プログラミングのコンテストが開かれるサイトです。
