@@ -28,7 +28,7 @@ cards:
     date: 4/27 (水) 18:30-21:00
     details: Git/GitHubの基本的な使い方とソフトウェア開発の流れをご説明します。こちらにもぜひご参加ください。
 description: 春の新歓の日程を掲示します
-slug: welcome-event-2022
+slug: welcome-event-2022-schedule
 emoji: 1f338
 ---
 
