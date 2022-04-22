@@ -33,6 +33,15 @@ links:
         link: https://github.com/Tengu712
       - icon: brand-twitter
         link: https://twitter.com/Tengu_s_Note
+  
+  - title: むぎちゃ
+    description: 情報科学科。CTFとCPUとかやってます。だいたい低レイヤーに住んでます。
+    image: https://avatars.githubusercontent.com/u/70440541
+    social:
+      - icon: brand-github
+        link: https://github.com/mugicha9
+      - icon: brand-twitter
+        link: https://twitter.com/mugichaffee
 
 menu:
     main:
