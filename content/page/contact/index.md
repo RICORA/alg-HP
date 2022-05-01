@@ -16,13 +16,12 @@ slug: contact
 ## 新歓
 新歓イベントのお知らせはLINEオープンチャットで行います。入部希望者はこちらから参加をお願いします。
 
-<!--新歓の時期はコメントアウト-->
-<!--
-<span style="color: red;">**今年度の新歓イベントは全て終了しました。**</span>
--->
+<span style="color: red;">**今年度の新歓イベントは全て終了しました。ご参加いただきありがとうございました。**</span>
 
 <!--新歓の時期以外はコメントアウト-->
 
+<!--新歓の時期はコメントアウト-->
+<!--
 <div style="text-align: center;">
   <img src="https://user-images.githubusercontent.com/31199032/159123432-d977552a-802d-4a66-9191-55d201ac8868.jpg" width="200" height="200" alt="LINE オープンチャット" class="shinkan-openchat-image">
 </div>
@@ -32,6 +31,7 @@ slug: contact
 見学の申し込みは以下のGoogle Formsで受け付けております。
 
 {{< linkcard url=https://forms.gle/PmimftqCFvezi3Cs6 >}}
+-->
 
 ## お問い合わせ
 新歓の時期以外での入部希望者や提携のご相談など、個別に返信が欲しい場合はこちらからお願いします。
