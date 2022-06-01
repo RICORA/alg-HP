@@ -1,7 +1,7 @@
 ---
+# メンバー追加時は、入学(入部)年度が新しい部員が上になるようにしてください。
 title: メンバー
 links:
-
   - title: Shinonome
     description: 2022年度代表。情報科学科。Splatoonが大好きで趣味。理論と実装の両方を頑張る。
     image: https://avatars.githubusercontent.com/u/66119716
@@ -33,7 +33,7 @@ links:
         link: https://github.com/Tengu712
       - icon: brand-twitter
         link: https://twitter.com/Tengu_s_Note
-  
+
   - title: むぎちゃ
     description: 情報科学科。CTFとCPUとかやってます。だいたい低レイヤーに住んでます。
     image: https://avatars.githubusercontent.com/u/70440541
@@ -55,9 +55,9 @@ links:
         link: https://qiita.com/syunnsyunn74
 
 menu:
-    main:
-        weight: -60
-        params:
-            icon: users
+  main:
+    weight: -60
+    params:
+      icon: users
 slug: member
 ---
