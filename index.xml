@@ -1,4 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>RICORA Programming Team</title><link>https://alg.tus-ricora.com/</link><description>Recent content on RICORA Programming Team</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Thu, 28 Apr 2022 00:00:00 +0900</lastBuildDate><atom:link href="https://alg.tus-ricora.com/index.xml" rel="self" type="application/rss+xml"/><item><title>2022年度春の新歓を行いました</title><link>https://alg.tus-ricora.com/p/welcome-event-2022/</link><pubDate>Thu, 28 Apr 2022 00:00:00 +0900</pubDate><guid>https://alg.tus-ricora.com/p/welcome-event-2022/</guid><description>&lt;h2 id="はじめに">はじめに&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>RICORA Programming Team</title><link>https://alg.tus-ricora.com/</link><description>Recent content on RICORA Programming Team</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Wed, 18 May 2022 17:08:32 +0900</lastBuildDate><atom:link href="https://alg.tus-ricora.com/index.xml" rel="self" type="application/rss+xml"/><item><title>2022年5月の部内LT会まとめ</title><link>https://alg.tus-ricora.com/p/lt-20220511/</link><pubDate>Wed, 18 May 2022 17:08:32 +0900</pubDate><guid>https://alg.tus-ricora.com/p/lt-20220511/</guid><description>&lt;h2 id="はじめに">はじめに&lt;/h2>
+&lt;p>GW明けの5月11日(水)に、LT会を行いました。&lt;/p>
+&lt;h2 id="発表内容一覧">発表内容一覧&lt;/h2>
+&lt;h3 id="cで意識高い系開発してみたshun74">C++で意識高い系開発してみた(shun74)&lt;/h3>
+&lt;p>C++で物体検知を行うコードの開発を行いました。&lt;/p>
+&lt;h3 id="ベイズ統計モデリングはじめましたruんグ">ベイズ統計モデリングはじめました(Ruんグ)&lt;/h3>
+&lt;p>古典統計とベイズ統計の違いを説明し、ベイズ統計を使った予測を紹介しました。&lt;/p>
+&lt;h3 id="nand2tetrisから学ぶコンピュータのメモリの使い方むぎちゃ">nand2tetrisから学ぶコンピュータのメモリの使い方(むぎちゃ)&lt;/h3>
+&lt;p>関数呼び出しがされるときのスタックの動作とアセンブリコードについて考察しました。&lt;/p>
+&lt;h3 id="機械学習で画像ファイルを推しキャラだけにする修正版たそたく">機械学習で画像ファイルを推しキャラだけにする（修正版）(たそたく)&lt;/h3>
+&lt;p>前回の課題だったモデルの保存と読み込みを行い、加えてモデルの閾値の考察をした結果を発表しました。&lt;/p>
+&lt;h3 id="gitmessageで虚無コミットをやめよううなぎど">.gitmessageで虚無コミットをやめよう(うなぎど)&lt;/h3>
+&lt;p>Gitのコミットメッセージには何を書くべきかの問題提起を行いました。&lt;/p>
+&lt;h3 id="pythonのprint関数にみるポリモーフィズムshinonome">Pythonのprint関数にみるポリモーフィズム(Shinonome)&lt;/h3>
+&lt;p>Pythonのprint関数の実装を考察し、自作のデータ構造も引数にとれることを確認しました。&lt;/p>
+&lt;h3 id="rustwindows-rsでシューティングゲームを作った話天狗">Rust+Windows-rsでシューティングゲームを作った話(天狗)&lt;/h3>
+&lt;p>途中まで制作したゲームと、Entity Component Systemについて紹介をしました。&lt;/p></description></item><item><title>2022年度春の新歓を行いました</title><link>https://alg.tus-ricora.com/p/welcome-event-2022/</link><pubDate>Thu, 28 Apr 2022 00:00:00 +0900</pubDate><guid>https://alg.tus-ricora.com/p/welcome-event-2022/</guid><description>&lt;h2 id="はじめに">はじめに&lt;/h2>
 &lt;p>本年度の新歓イベント&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>は4月末をもってすべて終了いたしました。たくさんの方に当サークルへ興味を持って頂けたようで本当にありがとうございました。&lt;/p>
 &lt;p>&lt;figure
 >
