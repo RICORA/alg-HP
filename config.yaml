@@ -217,21 +217,33 @@ menu:
         - identifier: github
           name: GitHub
           url: https://github.com/RICORA/
+          weight: -100
           params:
             icon: brand-github
-
         - identifier: twitter
           name: Twitter
           url: https://twitter.com/ricora_alg/
+          weight: -90
           params:
             icon: brand-twitter
-
         - identifier: youtube
           name: YouTube
+          weight: -80
           url: https://www.youtube.com/channel/UC4qBY_aaTvTkQ3E0PY89T2A
           params:
             icon: brand-youtube
-
+        - identifier: wiki
+          name: Wiki
+          weight: -70
+          url: https://alg-wiki.tus-ricora.com
+          params:
+            icon: news
+        - identifier: slide
+          name: Slide
+          weight: -60
+          url: https://alg-slides.tus-ricora.com
+          params:
+            icon: presentation
 
 related:
     includeNewer: true
