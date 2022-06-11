@@ -8,7 +8,7 @@ tags:
     - 講座
 description: 2022年度のGit/GitHub講座を開催しました！
 slug: git-lecture-2022
-emoji: 270F
+emoji: 1F419
 ---
 
 ## はじめに
