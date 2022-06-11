@@ -5,7 +5,7 @@ lastmod: 2022-06-09T20:38:51+09:00
 categories:
     - activities
 tags:
-    -
+    - 講座
 description: 2022年度のGit/GitHub講座を開催しました！
 slug: git-lecture-2022
 emoji: 270F
