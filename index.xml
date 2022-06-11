@@ -1,4 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>RICORA Programming Team</title><link>https://alg.tus-ricora.com/</link><description>Recent content on RICORA Programming Team</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Wed, 18 May 2022 17:08:32 +0900</lastBuildDate><atom:link href="https://alg.tus-ricora.com/index.xml" rel="self" type="application/rss+xml"/><item><title>2022年5月の部内LT会まとめ</title><link>https://alg.tus-ricora.com/p/lt-20220511/</link><pubDate>Wed, 18 May 2022 17:08:32 +0900</pubDate><guid>https://alg.tus-ricora.com/p/lt-20220511/</guid><description>&lt;h2 id="はじめに">はじめに&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>RICORA Programming Team</title><link>https://alg.tus-ricora.com/</link><description>Recent content on RICORA Programming Team</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Thu, 09 Jun 2022 20:38:51 +0900</lastBuildDate><atom:link href="https://alg.tus-ricora.com/index.xml" rel="self" type="application/rss+xml"/><item><title>2022年度のGit/GitHub講座を行いました</title><link>https://alg.tus-ricora.com/p/git-lecture-2022/</link><pubDate>Thu, 09 Jun 2022 20:38:51 +0900</pubDate><guid>https://alg.tus-ricora.com/p/git-lecture-2022/</guid><description>&lt;h2 id="はじめに">はじめに&lt;/h2>
+&lt;p>Git/GitHubはソースコードのバージョン管理システムとして広く使われています。これらは弊サークルでも様々な部分で活用しているため、ツールの使い方の基本を知ってもらうために講座を開催しました。&lt;/p>
+&lt;h2 id="講座概要">講座概要&lt;/h2>
+&lt;p>Git/GitHub講座は2週に分けて次のような流れで行いました。&lt;/p>
+&lt;ol>
+&lt;li>パッケージマネージャーを用いた環境構築会&lt;/li>
+&lt;li>Git/GitHubの説明&lt;/li>
+&lt;li>Git/GitHubの演習&lt;/li>
+&lt;/ol>
+&lt;h3 id="パッケージマネージャーを用いた環境構築会">パッケージマネージャーを用いた環境構築会&lt;/h3>
+&lt;p>Git講座の前準備としてパッケージマネージャーを紹介し、利点などを説明した後、WindowsユーザーにはChocolatelyを、MacユーザーにはHomebrewを導入してもらい環境構築会を行いました。&lt;/p>
+&lt;iframe frameborder="0" src="https://alg-slides.tus-ricora.com/pm.html" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"
+style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 560px; height: 314px;"
+data-ratio="1.78343949044586">
+&lt;/iframe>
+&lt;h3 id="gitgithubの説明">Git/GitHubの説明&lt;/h3>
+&lt;p>Git/GitHubについての講義を行い、Gitのpush, pullといった基本的なコマンド、GitHub上での共同開発で必要となるPull Requestなどについて説明しました。&lt;/p>
+&lt;iframe frameborder="0" src="https://alg-slides.tus-ricora.com/git.html" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"
+style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 560px; height: 314px;"
+data-ratio="1.78343949044586">
+&lt;/iframe>
+&lt;h3 id="gitgithubの演習">Git/GitHubの演習&lt;/h3>
+&lt;p>Gitの基本を理解した後は、&lt;a class="link" href="https://github.com/RICORA/git-tutorial-2022" target="_blank" rel="noopener"
+>演習用のリポジトリ&lt;/a>を使い、実際に手を動かしてもらいました。&lt;/p>
+&lt;iframe class="hatenablogcard" style="width:100%;height:155px;max-width:680px;"
+src="https://hatenablog-parts.com/embed?url=https%3a%2f%2fgithub.com%2fricora%2fgit-tutorial-2022" width="300" height="150" frameborder="0" scrolling="no">
+&lt;/iframe></description></item><item><title>2022年5月の部内LT会まとめ</title><link>https://alg.tus-ricora.com/p/lt-20220511/</link><pubDate>Wed, 18 May 2022 17:08:32 +0900</pubDate><guid>https://alg.tus-ricora.com/p/lt-20220511/</guid><description>&lt;h2 id="はじめに">はじめに&lt;/h2>
 &lt;p>GW明けの5月11日(水)に、LT会を行いました。&lt;/p>
 &lt;h2 id="発表内容一覧">発表内容一覧&lt;/h2>
 &lt;h3 id="cで意識高い系開発してみたshun74">C++で意識高い系開発してみた(shun74)&lt;/h3>
