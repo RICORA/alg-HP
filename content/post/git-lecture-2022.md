@@ -13,27 +13,30 @@ emoji: 1F419
 
 ## はじめに
 
-ソースコードのバージョン管理システムとして、Git/GitHubは広く使われています。RICORA言語班でも様々な部分で活用しているため、これらのツールの使い方の基本を知ってもらうために講座を開催しました。
+Git/GitHubはソースコードのバージョン管理システムとして広く使われています。これらは弊サークルでも様々な部分で活用しているため、ツールの使い方の基本を知ってもらうために講座を開催しました。
 
 ## 講座概要
 
-Git/GitHub講座は時間の都合上2回に分けられ、次のような進行で行われました。
+Git/GitHub講座は2週に分けて次のような流れで行いました。
 
-1. Gitのインストールと環境構築
-2. Gitの説明
-3. Gitを使った練習
+1. パッケージマネージャーを用いた環境構築会
+2. Git/GitHubの説明
+3. Git/GitHubの演習
 
-### Gitのインストールと環境構築
+### パッケージマネージャーを用いた環境構築会
 
-Gitのインストールはパッケージマネージャーを使う方法を選択しました。WindowsユーザーはChocolatelyを、MacユーザーはHomebrewを使います。
-このような説明スライドを見ながら導入をしました。
+Git講座の前準備としてパッケージマネージャーを紹介し、利点などを説明した後、WindowsユーザーにはChocolatelyを、MacユーザーにはHomebrewを導入してもらい環境構築会を行いました。
+
 {{<slide url="https://alg-slides.tus-ricora.com/pm.html">}}
 
-### Gitの説明
+### Git/GitHubの説明
 
-Gitの使い方も、サークルメンバーが作成したスライドを使い説明しました。Gitがやっていることや、push, pullといった基本的なコマンド、共同開発で必要になるPull Requestなどについて丁寧に書かれています。
+Git/GitHubについての講義を行い、Gitのpush, pullといった基本的なコマンド、GitHub上での共同開発で必要となるPull Requestなどについて説明しました。
+
 {{<slide url="https://alg-slides.tus-ricora.com/git.html">}}
 
-### Gitを使った練習
+### Git/GitHubの演習
 
-Gitの基本を理解した後は、[演習用のリポジトリ](https://github.com/RICORA/git-tutorial-2022)を使い、実際に手を動かしました。
+Gitの基本を理解した後は、[演習用のリポジトリ](https://github.com/RICORA/git-tutorial-2022)を使い、実際に手を動かしてもらいました。
+
+{{<linkcard url="https://github.com/ricora/git-tutorial-2022">}}
