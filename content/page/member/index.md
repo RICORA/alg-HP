@@ -43,6 +43,20 @@ links:
       - icon: brand-twitter
         link: https://twitter.com/mugichaffee
 
+  - title: Ruんグ
+    description: 情報科学科。統計モデリング(最近はベイズ)を勉強しています。積読は貯金みたいなもの。
+    image: https://avatars.githubusercontent.com/u/63206217
+    social:
+      - icon: brand-github
+        link: https://github.com/narung56
+      - icon: brand-twitter
+        link: https://twitter.com/statistics_ds_
+      - icon: brand-twitter
+        link: https://twitter.com/369_ru
+      - icon: brand-qiita
+        link: https://qiita.com/369_ru
+    
+
   - title: shun74
     description: 情報科学科。1bitニューラルネットの研究やってます。ロボット系も好きです(Bittleで検索)。将来的にニューラルネットをFPGAに落とし込んで爆速化したい。
     image: https://avatars.githubusercontent.com/u/53217247
