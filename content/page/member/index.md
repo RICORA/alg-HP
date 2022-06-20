@@ -55,7 +55,17 @@ links:
         link: https://twitter.com/369_ru
       - icon: brand-qiita
         link: https://qiita.com/369_ru
-    
+  
+  - title: Thimblee
+    description: 情報科学科。機械学習を勉強しています。Pythonが好き。
+    image: https://avatars.githubusercontent.com/u/65766417
+    social:
+      - icon: brand-github
+        link: https://github.com/thimblee
+      - icon: brand-zenn
+        link: https://zenn.dev/thimblee
+      - icon: brand-atcoder
+        link: https://atcoder.jp/users/Lesboar
 
   - title: shun74
     description: 情報科学科。1bitニューラルネットの研究やってます。ロボット系も好きです(Bittleで検索)。将来的にニューラルネットをFPGAに落とし込んで爆速化したい。
