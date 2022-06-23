@@ -1,4 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>RICORA Programming Team</title><link>https://alg.tus-ricora.com/</link><description>Recent content on RICORA Programming Team</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Thu, 09 Jun 2022 20:38:51 +0900</lastBuildDate><atom:link href="https://alg.tus-ricora.com/index.xml" rel="self" type="application/rss+xml"/><item><title>2022年度のGit/GitHub講座を行いました</title><link>https://alg.tus-ricora.com/p/git-lecture-2022/</link><pubDate>Thu, 09 Jun 2022 20:38:51 +0900</pubDate><guid>https://alg.tus-ricora.com/p/git-lecture-2022/</guid><description>&lt;h2 id="はじめに">はじめに&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>RICORA Programming Team</title><link>https://alg.tus-ricora.com/</link><description>Recent content on RICORA Programming Team</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Wed, 22 Jun 2022 18:40:32 +0900</lastBuildDate><atom:link href="https://alg.tus-ricora.com/index.xml" rel="self" type="application/rss+xml"/><item><title>2022年6月の部内LT会まとめ</title><link>https://alg.tus-ricora.com/p/lt-20220622/</link><pubDate>Wed, 22 Jun 2022 18:40:32 +0900</pubDate><guid>https://alg.tus-ricora.com/p/lt-20220622/</guid><description>&lt;h2 id="はじめに">はじめに&lt;/h2>
+&lt;p>6月22日(水)に、LT会を行いました。&lt;/p>
+&lt;h2 id="発表内容一覧">発表内容一覧&lt;/h2>
+&lt;h3 id="みんな理解させるvision-transformershun74">みんな理解させるVision Transformer(shun74)&lt;/h3>
+&lt;p>NNの基礎からVisin Transformerまで説明しました。&lt;/p>
+&lt;iframe frameborder="0" src="https://speakerdeck.com/player/6e377f6246ff405db4766aec03a8f5e8" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"
+style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 560px; height: 314px;"
+data-ratio="1.78343949044586">
+&lt;/iframe>
+&lt;h3 id="正規表現nfadfa天狗">正規表現→NFA→DFA(天狗)&lt;/h3>
+&lt;p>オートマトンを正規表現から作る。&lt;/p></description></item><item><title>2022年度のGit/GitHub講座を行いました</title><link>https://alg.tus-ricora.com/p/git-lecture-2022/</link><pubDate>Thu, 09 Jun 2022 20:38:51 +0900</pubDate><guid>https://alg.tus-ricora.com/p/git-lecture-2022/</guid><description>&lt;h2 id="はじめに">はじめに&lt;/h2>
 &lt;p>Git/GitHubはソースコードのバージョン管理システムとして広く使われています。これらは弊サークルでも様々な部分で活用しているため、ツールの使い方の基本を知ってもらうために講座を開催しました。&lt;/p>
 &lt;h2 id="講座概要">講座概要&lt;/h2>
 &lt;p>Git/GitHub講座は2週に分けて次のような流れで行いました。&lt;/p>
