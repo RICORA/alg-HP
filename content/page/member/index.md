@@ -3,7 +3,7 @@
 title: メンバー
 links:
   - title: たそたく
-    description: 情報科学科。2022年度副代表。アストルフォ推し。機械学習をいろいろやりたい。
+    description: 2022年度副代表。情報科学科。アストルフォ推し。機械学習をいろいろやりたい。
     image: https://avatars.githubusercontent.com/u/84508110
     social:
       - icon: brand-github
