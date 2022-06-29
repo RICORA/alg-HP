@@ -68,7 +68,7 @@ links:
         link: https://atcoder.jp/users/Lesboar
 
   - title: kakudo415
-    description: 理工学部 数学科。Webプログラミングと低レイヤと･･･
+    description: 数学科（理工学部）。Webプログラミングと低レイヤと･･･
     image: https://avatars.githubusercontent.com/u/31888089
     social:
       - icon: brand-github
