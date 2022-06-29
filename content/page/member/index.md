@@ -1,9 +1,9 @@
 ---
-# ãƒ¡ãƒ³ãƒãƒ¼è¿½åŠ æ™‚ã¯ã€å…¥å­¦(å…¥éƒ¨)å¹´åº¦ãŒæ–°ã—ã„éƒ¨å“¡ãŒä¸Šã«ãªã‚‹ã‚ˆã†ã«ã—ã¦ãã ã•ã„ã€‚
-title: ãƒ¡ãƒ³ãƒãƒ¼
+# ƒƒ“ƒo[’Ç‰Á‚ÍA“üŠw(“ü•”)”N“x‚ªV‚µ‚¢•”ˆõ‚ªã‚É‚È‚é‚æ‚¤‚É‚µ‚Ä‚­‚¾‚³‚¢B
+title: ƒƒ“ƒo[
 links:
-  - title: ãŸããŸã
-    description: æƒ…å ±ç§‘å­¦ç§‘ã€‚å‰¯éƒ¨é•·ã€‚ã‚¢ã‚¹ãƒˆãƒ«ãƒ•ã‚©æ¨ã—ã€‚æ©Ÿæ¢°å­¦ç¿’ã‚’ã„ã‚ã„ã‚ã‚„ã‚ŠãŸã„ã€‚
+  - title: ‚½‚»‚½‚­
+    description: î•ñ‰ÈŠw‰ÈB2022”N“x•›‘ã•\BƒAƒXƒgƒ‹ƒtƒH„‚µB‹@ŠBŠwK‚ğ‚¢‚ë‚¢‚ë‚â‚è‚½‚¢B
     image: https://avatars.githubusercontent.com/u/84508110
     social:
       - icon: brand-github
@@ -12,7 +12,7 @@ links:
         link: https://twitter.com/tasotaku
 
   - title: Shinonome
-    description: 2022å¹´åº¦ä»£è¡¨ã€‚æƒ…å ±ç§‘å­¦ç§‘ã€‚SplatoonãŒå¤§å¥½ãã§è¶£å‘³ã€‚ç†è«–ã¨å®Ÿè£…ã®ä¸¡æ–¹ã‚’é ‘å¼µã‚‹ã€‚
+    description: 2022”N“x‘ã•\Bî•ñ‰ÈŠw‰ÈBSplatoon‚ª‘åD‚«‚Åï–¡B—˜_‚ÆÀ‘•‚Ì—¼•û‚ğŠæ’£‚éB
     image: https://avatars.githubusercontent.com/u/66119716
     social:
       - icon: brand-github
@@ -25,7 +25,7 @@ links:
         link: https://atcoder.jp/users/Shinonome517
 
   - title: unagi_dog
-    description: ç‰©ç†å­¦ç§‘ã€‚å¯ã‚‹ã®ãŒå¥½ãã€‚swayã¨ã‹i3ã¨ã‹ã®ã‚«ã‚¹ã‚¿ãƒã‚¤ã‚ºãŒå¥½ãã§ã™ã€‚vimå°å­¦æ ¡2020å¹´å…¥å­¦ã€‚
+    description: •¨—Šw‰ÈBQ‚é‚Ì‚ªD‚«Bsway‚Æ‚©i3‚Æ‚©‚ÌƒJƒXƒ^ƒ}ƒCƒY‚ªD‚«‚Å‚·Bvim¬ŠwZ2020”N“üŠwB
     image: https://avatars.githubusercontent.com/u/31199032
     social:
       - icon: brand-github
@@ -34,8 +34,8 @@ links:
         link: https://twitter.com/NAUS3E
       - link: https://xn--2sx204a.dev/
 
-  - title: å¤©ç‹—
-    description: æƒ…å ±ç§‘å­¦ç§‘ã€‚ãƒ—ãƒ­ã‚°ãƒ©ãƒŸãƒ³ã‚°è¨€èªè‡ªä½“ã«èˆˆå‘³ãŒã‚ã‚‹è€…ã€‚æ™®æ®µã¯C++ã¨ã‹Rustã§Win32API(ç‰¹ã«DirectX)ã‚’å©ãã€‚
+  - title: “V‹ç
+    description: î•ñ‰ÈŠw‰ÈBƒvƒƒOƒ‰ƒ~ƒ“ƒOŒ¾Œê©‘Ì‚É‹»–¡‚ª‚ ‚éÒB•’i‚ÍC++‚Æ‚©Rust‚ÅWin32API(“Á‚ÉDirectX)‚ğ’@‚­B
     image: https://avatars.githubusercontent.com/u/65766435
     social:
       - icon: brand-github
@@ -43,8 +43,8 @@ links:
       - icon: brand-twitter
         link: https://twitter.com/Tengu_s_Note
 
-  - title: ã‚€ãã¡ã‚ƒ
-    description: æƒ…å ±ç§‘å­¦ç§‘ã€‚CTFã¨CPUã¨ã‹ã‚„ã£ã¦ã¾ã™ã€‚ã ã„ãŸã„ä½ãƒ¬ã‚¤ãƒ¤ãƒ¼ã«ä½ã‚“ã§ã¾ã™ã€‚
+  - title: ‚Ş‚¬‚¿‚á
+    description: î•ñ‰ÈŠw‰ÈBCTF‚ÆCPU‚Æ‚©‚â‚Á‚Ä‚Ü‚·B‚¾‚¢‚½‚¢’áƒŒƒCƒ„[‚ÉZ‚ñ‚Å‚Ü‚·B
     image: https://avatars.githubusercontent.com/u/70440541
     social:
       - icon: brand-github
@@ -52,8 +52,8 @@ links:
       - icon: brand-twitter
         link: https://twitter.com/mugichaffee
 
-  - title: Ruã‚“ã‚°
-    description: æƒ…å ±ç§‘å­¦ç§‘ã€‚çµ±è¨ˆãƒ¢ãƒ‡ãƒªãƒ³ã‚°(æœ€è¿‘ã¯ãƒ™ã‚¤ã‚º)ã‚’å‹‰å¼·ã—ã¦ã„ã¾ã™ã€‚ç©èª­ã¯è²¯é‡‘ã¿ãŸã„ãªã‚‚ã®ã€‚
+  - title: Ru‚ñƒO
+    description: î•ñ‰ÈŠw‰ÈB“Œvƒ‚ƒfƒŠƒ“ƒO(Å‹ß‚ÍƒxƒCƒY)‚ğ•×‹­‚µ‚Ä‚¢‚Ü‚·BÏ“Ç‚Í’™‹à‚İ‚½‚¢‚È‚à‚ÌB
     image: https://avatars.githubusercontent.com/u/63206217
     social:
       - icon: brand-github
@@ -66,7 +66,7 @@ links:
         link: https://qiita.com/369_ru
   
   - title: Thimblee
-    description: æƒ…å ±ç§‘å­¦ç§‘ã€‚æ©Ÿæ¢°å­¦ç¿’ã‚’å‹‰å¼·ã—ã¦ã„ã¾ã™ã€‚PythonãŒå¥½ãã€‚
+    description: î•ñ‰ÈŠw‰ÈB‹@ŠBŠwK‚ğ•×‹­‚µ‚Ä‚¢‚Ü‚·BPython‚ªD‚«B
     image: https://avatars.githubusercontent.com/u/65766417
     social:
       - icon: brand-github
@@ -77,7 +77,7 @@ links:
         link: https://atcoder.jp/users/Lesboar
 
   - title: shun74
-    description: æƒ…å ±ç§‘å­¦ç§‘ã€‚1bitãƒ‹ãƒ¥ãƒ¼ãƒ©ãƒ«ãƒãƒƒãƒˆã®ç ”ç©¶ã‚„ã£ã¦ã¾ã™ã€‚ãƒ­ãƒœãƒƒãƒˆç³»ã‚‚å¥½ãã§ã™(Bittleã§æ¤œç´¢)ã€‚å°†æ¥çš„ã«ãƒ‹ãƒ¥ãƒ¼ãƒ©ãƒ«ãƒãƒƒãƒˆã‚’FPGAã«è½ã¨ã—è¾¼ã‚“ã§çˆ†é€ŸåŒ–ã—ãŸã„ã€‚
+    description: î•ñ‰ÈŠw‰ÈB1bitƒjƒ…[ƒ‰ƒ‹ƒlƒbƒg‚ÌŒ¤‹†‚â‚Á‚Ä‚Ü‚·Bƒƒ{ƒbƒgŒn‚àD‚«‚Å‚·(Bittle‚ÅŒŸõ)B«—ˆ“I‚Éƒjƒ…[ƒ‰ƒ‹ƒlƒbƒg‚ğFPGA‚É—‚Æ‚µ‚ñ‚Å”š‘¬‰»‚µ‚½‚¢B
     image: https://avatars.githubusercontent.com/u/53217247
     social:
       - icon: brand-github
