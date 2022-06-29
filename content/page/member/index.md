@@ -76,6 +76,19 @@ links:
       - icon: brand-atcoder
         link: https://atcoder.jp/users/Lesboar
 
+  - title: kakudo415
+    description: 数学科（理工学部）。Webプログラミングと低レイヤと･･･
+    image: https://avatars.githubusercontent.com/u/31888089
+    social:
+      - icon: brand-github
+        link: https://github.com/kakudo415
+      - icon: brand-twitter
+        link: https://twitter.com/kakudo415
+      - icon: brand-youtube
+        link: http://youtube.com/kakudo415
+      - icon: brand-qiita
+        link: https://qiita.com/kakudo415
+
   - title: shun74
     description: 情報科学科。1bitニューラルネットの研究やってます。ロボット系も好きです(Bittleで検索)。将来的にニューラルネットをFPGAに落とし込んで爆速化したい。
     image: https://avatars.githubusercontent.com/u/53217247
